@@ -11,7 +11,7 @@
 
 - 🤝 I'm looking for help with **DSA** and **web3**
 
-- 🌱 I’m currently learning **Django** and **Firebase**
+- 🌱 I’m currently learning **Laravel** 
 
 - 💬 Ask me about **Node** and **Express**
 
